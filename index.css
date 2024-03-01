@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    box-sizing: border-box;
+    background-color: #FFFFFF;    
+    scroll-behavior: smooth;
+    font-family: "Archivo", sans-serif;
+}
+
+.container{
+    margin: 30px;
+   max-width: 1200px;
+    height: 2200px;
+}
+
+
+.bejamas{
+    width: 145px;
+    height: 23px;
+}
+
+button img{
+    background-color: unset;
+    border: none;
+   position: absolute;
+   top:15px;
+   right: 42px;
+    width: 40px;
+    height: 45px;
+}
+
+.hr1{
+    border: 4px solid transparent;
+    background-color: #E4E4E4;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 1275px;
+}
+
+.add-to-cart{
+    position: absolute;
+    top: 112px;
+    right: 35px;
+    width: 180px;
+    height: 30px;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 15px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+section img{
+    width: 1283px ;
+   height: 530px;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}
+
+.samurai{
+    font-size: 22px;
+}
+
+.box1{
+    width: 600px;
+    height: 350px;
+}
+.pets{
+    color: #656565;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 22px;
+}
+
+.info{
+    color:#656565;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.box2{
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 730px;
+    right: 32px;
+}
+
+.people{
+    text-align: end;
+    font-size: 22px;
+}
+
+.box2-images{
+    display: inline-block;
+    width: 120px;
+    height: 147px;
+    position: relative;
+    top: 0;
+    left: 100px;
+    padding-right: 15px;
+} 
+
+.details{
+    text-align: end;
+}
+.size{
+    margin-block-start: 10px;
+    color: #656565;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.photo1{
+    font-size: 30px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.photo-type{
+    font-size: 30px;
+    font-weight: 700;
+    color: #9B9B9B;
+}
+
+.sort-div{
+    position: absolute;
+    top: 1130px;
+    right: 32px;
+}
+
+.up-and-down{
+    width: 15px;
+    height: 15px;
+}
+.sort{
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    margin-left: 3px;
+    color: #9B9B9B;
+    font-size: 22px;
+    font-weight: 400;
+}
+.price{
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    margin-right: 3px;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.vector{
+    width: 16px;
+    height: 12px;
+}
+
+.last-div1{
+    width: 350px;
+    height: 900px;
+}
+
+.category{
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+}
+
+label{
+    display: block;
+    margin-block-start: 20px;
+}
+
+[type="checkbox"]{
+    width: 23px;
+    height: 23px;
+    border: 2px;
+}
+
+.unset{
+    border: none;
+    background-color: unset;
+    position: absolute;
+    left: 60px;
+}
+.inner-edit{
+    font-size: 22px;
+    font-weight: 400;
+    color: #1d1d1d;
+}
+
+.hr3{
+    width: 260px;
+    border: 1px solid transparent;
+    background-color: #E4E4E4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.last-div2{
+    width: 900px;
+    height: 1000px;
+    position: absolute;
+    top: 1175px;
+    right: 32px;
+}
+
+.ladies{
+    width: 280px;
+    height: 800px;
+}
+
+.last2{
+    position: absolute;
+    left: 312px;
+}
+.last3{
+    position: absolute;
+    left: 622px;
+}
+
+.page-numb{
+    width: 180px;
+    position: absolute;
+    top: 2080px;
+    left: 750px;
+}
